@@ -30,7 +30,7 @@ Lucide icons
 **Backend:** Node.js, Express, MongoDB, Mongoose, JWT, bcryptjs, Multer,
 pdf-parse
 
-**AI:** Google Gemini API (`gemini-1.5-flash`), called only from the backend
+**AI:** Google Gemini API (`gemini-2.5-flash`), called only from the backend
 
 ## Project Structure
 
