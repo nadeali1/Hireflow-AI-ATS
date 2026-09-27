@@ -148,8 +148,15 @@ header.
 
 ## Screenshots
 
-_Add screenshots of the landing page, dashboard, applications list, and AI
-analyzer here once the app is running._
+<img width="1920" height="1080" alt="register" src="https://github.com/user-attachments/assets/270608a4-0e88-4beb-9bc0-1c9ee1d3edd5" />
+<img width="1920" height="1080" alt="login" src="https://github.com/user-attachments/assets/f559e4fe-a5cc-486b-86fb-f934e419c4c7" />
+<img width="1920" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/375430b7-385e-451d-b53d-2d47adf562c8" />
+<img width="1920" height="1080" alt="New Application" src="https://github.com/user-attachments/assets/5979c96a-f977-4055-a9df-19872975c3ab" />
+<img width="1920" height="1080" alt="Resume Upload" src="https://github.com/user-attachments/assets/95e9938c-b0c6-461e-8fb6-854eaaa81adb" />
+<img width="1920" height="1080" alt="Resume Analyzer" src="https://github.com/user-attachments/assets/f21d781b-b3c0-4a12-abfc-1ef436453c7e" />
+
+
+
 
 ## Future Improvements
 
